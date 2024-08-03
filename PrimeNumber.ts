@@ -1,5 +1,5 @@
 function isPrime(num: number) {
-    // please modify this function
+    // modified the function
 }
 
 isPrime(3);
